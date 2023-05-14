@@ -1,0 +1,45 @@
+:root {
+    --white-color: #ffffff ;
+    --bg-color: #f5f5dc;
+    --blue-color: #2196F3;
+    --title-color: #212121;
+    --text-color: #757575;
+    --dark-grey: ##2F303A;
+}
+
+
+body {
+    background-color: var(--bg-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color)
+}
+
+/* Logo */
+
+.list {
+    list-style: none;
+}
+
+/* Nav */
+
+
+/* Nav contacts */
+
+
+/* Section - Hero */
+.hero {
+    background-color: var(--dark-grey);
+}
+
+/* Section - Features */
+
+
+/* Section - Whet We do */
+
+
+/* Section - Our Tem */
+
+
+/* Footer */
